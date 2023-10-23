@@ -30,7 +30,3 @@
  <br>
  
   ![snake gif](https://github.com/lucas-slv/lucas-slv/blob/output/github-contribution-grid-snake.svg)
-  ![snake gif](https://github.com/lucas-slv/lucas-slv/blob/output/github-contribution-grid-snake.gif)
-  
-
-</div>
