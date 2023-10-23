@@ -1,6 +1,6 @@
 ## Apresentação 😉
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&pause=1000&vCenter=true&random=false&width=520&height=60&lines=Hello%2C+welcome+to+my+profile%F0%9F%98%81;Meu+nome+%C3%A9+Lucas+Mendes+e+tenho+20+anos;Atualmente+estudo+as+tecnologias+Front-End;Em+busca+da+minha+primeira+vaga+como+Dev+%F0%9F%92%BB)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&pause=1000&vCenter=true&random=false&width=520&height=60&lines=Hello%2C+welcome+to+my+profile%F0%9F%98%81;Meu+nome+%C3%A9+Lucas+Mendes+e+tenho+20+anos;Atualmente+estudo+as+tecnologias+do+Front-End;Em+busca+da+minha+primeira+vaga+como+Dev+%F0%9F%92%BB)
 
 ## Redes para contato 📨
 <div display: 'inline-block'> 
