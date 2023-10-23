@@ -26,7 +26,3 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-slv&layout=compact&langs_count=6&theme=dark"/>
 
 </div>
- 
- <br>
- 
-  ![snake gif](https://github.com/lucas-slv/lucas-slv/blob/output/github-contribution-grid-snake.svg)
